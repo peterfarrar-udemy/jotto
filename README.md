@@ -1,6 +1,13 @@
 # This is a copy of the Jotto code from an Udemy course on unit testing with Jest and Enzyme,
 ## saved here for reference.
 
+The original projects (including the word server that helps this code work) are also on github.  Find them here:
+  
+  * [Click Counter](https://github.com/flyrightsister/udemy-react-testing-projects/blob/master/click-counter/README.md)
+  * [Jotto](https://github.com/flyrightsister/udemy-react-testing-projects/blob/master/jotto/README.md)
+  * [Random Word Server](https://github.com/flyrightsister/udemy-react-testing-projects/blob/master/random-word-server/README.md)
+  
+-----------------------------------------------------------------------------------------------------------------------  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
