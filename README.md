@@ -1,3 +1,7 @@
+# This is a copy of the Jotto code from an Udemy course on unit testing with Jest and Enzyme,
+## saved here for reference.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
